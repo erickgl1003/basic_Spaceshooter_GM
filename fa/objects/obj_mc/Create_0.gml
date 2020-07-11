@@ -1,0 +1,10 @@
+global.paused = 0;
+hsp = 0;
+vsp = 0;
+flag = 5;
+firerate = 10;
+inv_window = 60;
+pos = true;
+global.str = 1;
+global.dex = 20;
+back_sp = -2;
